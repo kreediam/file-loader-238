@@ -1,0 +1,17 @@
+{
+    "name": "file-loader-238",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack --progress --config webpack.config.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "css-loader": "^0.28.9",
+        "extract-text-webpack-plugin": "^3.0.2",
+        "file-loader": "^1.1.8",
+        "webpack": "^3.11.0"
+    }
+}
